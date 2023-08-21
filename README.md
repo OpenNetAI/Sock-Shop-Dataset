@@ -13,10 +13,10 @@ We deployed [Sock Shop](https://microservices-demo.github.io/) in a Kubernetes c
 
 training data:
 
-![train-example](figures/train-example.png)
+![train-example](new-version/figures/train-example.png)
 
 
 
 test data:
 
-![test-example](figures/test-example.png)
+![test-example](new-version/figures/test-example.png)
